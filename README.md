@@ -1,6 +1,5 @@
-# analytics_book
-## Pythonによるビジネスアナリティクス
-## 練習問題集
+# lecture_notebooks
+## Python入門時の練習問題集
 
 * jupyter1_0.ipynb  : Jupyter Notebookの使用法の基礎
 * jupyter_lab1_0.ipynb  : Jupyter Labの使用法の基礎
